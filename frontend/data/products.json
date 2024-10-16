@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Crispy_Fried_Chicken",
+      "name": "Crispy Fried Chicken",
+      "price": "3454.00",
+      "url": "/frontend/images/fried_chicken_crispy.png",
+      "category": "Fast Food"
+    },
+    {
+      "id": 2,
+      "title": "Burger_Patty_Recipe",
+      "name": "Burger Patty Recipe",
+      "price": "1.00",
+      "url": "/frontend/images/Burger_Patty_Recipe.png",
+      "category": "Fast Food"
+    },
+    {
+      "id": 3,
+      "title": "Must_Try_Dishes",
+      "name": "Must Try Dishes",
+      "price": "8812.00",
+      "url": "/frontend/images/Must_Try_Dishes.png",
+      "category": "Rice Menu"
+    },
+    {
+      "id": 4,
+      "title": "Tasty_French_Fries",
+      "name": "Tasty French Fries",
+      "price": "18887.00",
+      "url": "/frontend/images/Free_French.png",
+      "category": "Fast Food"
+    },
+    {
+      "id": 5,
+      "title": "Toasted_Bread",
+      "name": "Toasted Bread",
+      "price": "1988.00",
+      "url": "/frontend/images/Toasted_Bread.png",
+      "category": "Desserts"
+    },
+    {
+      "id": 6,
+      "title": "Biscuit",
+      "name": "Biscuit",
+      "price": "2550.00",
+      "url": "/frontend/images/mynew/Toasted_Bread1.png",
+      "category": "Fast Food"
+    },
+    {
+      "id": 7,
+      "title": "Ice_Cream_1",
+      "name": "Chocolate Lava Cake",
+      "price": "5555.00",
+      "url": "/frontend/images/mynew/choco_lava_cake.png",
+      "category": "Desserts"
+    },
+    {
+      "id": 8,
+      "title": "Ice_Cream_2",
+      "name": "Ice Cream",
+      "price": "12555.00",
+      "url": "/frontend/images/mynew/Ice_cream.png",
+      "category": "Desserts"
+    },
+    {
+      "id": 9,
+      "title": "Ice_Cream_3",
+      "name": "Vegetable fried rice",
+      "price": "15552.00",
+      "url": "/frontend/images/mynew/vegetable_fried_rice_new.png",
+      "category": "Rice Menu"
+    },
+    {
+      "id": 10,
+      "title": "Ice_Cream_4",
+      "name": "Tiramisu",
+      "price": "15552.00",
+      "url": "/frontend/images/mynew/Tiramisu.png",
+      "category": "Desserts"
+    },
+    {
+      "id": 11,
+      "title": "Ice_Cream_5",
+      "name": "Margherita Pizza",
+      "price": "125555.00",
+      "url": "/frontend/images/mynew/Margherita_Pizza.png",
+      "category": "Pizza"
+    },
+    {
+      "id": 12,
+      "title": "Ice_Cream_6",
+      "name": "Gulab Jamun",
+      "price": "155552.00",
+      "url": "/frontend/images/mynew/gulab_jamun.png",
+      "category": "Desserts"
+    },
+    {
+      "id": 13,
+      "title": "Ice_Cream_7",
+      "name": "Espresso",
+      "price": "155552.00",
+      "url": "/frontend/images/mynew/Espresso.png",
+      "category": "Coffee"
+    },
+    {
+      "id": 14,
+      "title": "Ice_Cream_8",
+      "name": "Café au Lait",
+      "price": "15552.00",
+      "url": "/frontend/images/mynew/Café_au_Lait.png",
+      "category": "Coffee"
+    },
+    {
+      "id": 15,
+      "title": "Ice_Cream_9",
+      "name": "Hawaiian Pizza",
+      "price": "15552.00",
+      "url": "/frontend/images/mynew/Hawaiian_Pizza.png",
+      "category": "Pizza"
+    },
+    {
+      "id": 16,
+      "title": "Ice_Cream_10",
+      "name": "Black Forest Cake",
+      "price": "155552.00",
+      "url": "/frontend/images/mynew/Black_Forest_Cake.png",
+      "category": "Desserts"
+    }
+  ]
+}
